@@ -1,4 +1,0 @@
-This is an example text file.
-It contains several lines of text.
-Each line has a different number of characters.
-Let's see how often each letter appears in this document.
